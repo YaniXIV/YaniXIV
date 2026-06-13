@@ -1,11 +1,19 @@
-Yani
-
-Systems, cryptography.
-
-- 1st Place — SandBox x ICE Incubator Hackathon, University of Alberta (2026)
-- 3rd Place (Solo) — Aleo Privacy Virtual Hackathon
-
-[yanixiv.com](https://yanixiv.com)
-
----
-Consider supporting the [Kids with Cancer Society](https://www.kidswithcancer.ca).
+          ,~-.
+         (  ' )-.          ,~'`-.
+      ,~' `  ' ) )       _(   _) )
+     ( ( .--.===.--.    (  `    ' )
+      `.%%.;::|8888.#`.   `-'`~~=~'
+      /%%/::::::|8888\##\
+     |%%/:::::::|88888\##|
+     |%%|:::::::|888888|##|.,-.
+     \%%|:::::::|8888888|##/    )_
+      \%\:::::::|888888/##/ ( `'  )
+       \%\::::::|888888/#/(  ,  -'`-.
+   ,~-. `%\:::::|88888/#'(  (     ') )
+  (  ) )_ `\____|____/'   `~-~=--~~='
+ ( ` ')  ) [V       V]
+ (_(_.~~~' |  (\_/)  |
+(_(_.~~~'  \ ( •_•) /   They Told me to upload my code to the cloud, now im stuck... :(
+           [/ >🍪   ]
+          X`""""""'X
+          ----------
